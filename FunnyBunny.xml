@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<pokemon generation="1" pokedexNumber="802" classification="1">
+	<name>FunnyBunny</name>
+	<type>grass</type>
+	<type>ground</type>
+	<hp>80</hp>
+	<attack>88</attack>
+	<defense>69</defense>
+	<speed>50</speed>
+	<sp_attack>65</sp_attack>
+	<sp_defense>65</sp_defense>
+	<height>
+		<m>1.7</m>
+	</height>
+	<weight>
+		<kg>2.5</kg>
+	</weight>
+	<abilities>
+		<ability>Levitate</ability>
+		<ability>Truant</ability>
+	</abilities>
+</pokemon>
